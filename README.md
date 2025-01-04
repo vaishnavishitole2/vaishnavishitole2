@@ -7,7 +7,6 @@
 
 <p align="center">
   📍 Hadapsar, Pune-411028 <br>
-  📞 <strong>+91 9561353211</strong> <br><br>
   <a href="mailto:vaishnavishitole2003@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="40" height="40" />
   </a>
@@ -50,7 +49,8 @@ Hi there! I'm Vaishnavi, a passionate **Computer Science Engineering** student w
 
 ### 🛠️ Projects
 #### 🏠 **Home Automation System (IoT-Based)**
-- Developed a system to control various home devices and systems using IoT technology, enhancing security and convenience.  
+- Developed a system to control various home devices and systems using IoT technology, enhancing security and convenience.
+  - **Tech Stack**: Java, JDK 1.8, Java Swing, NetBeans 8.2, My SQL 5.0.
 
 #### 🎵 **JavaScript Music Website**
 - Built an interactive music website allowing users to play audios and music with features like play/pause and navigation.
@@ -63,11 +63,14 @@ Hi there! I'm Vaishnavi, a passionate **Computer Science Engineering** student w
 ---
 
 ### 💡 Technical Skills
-| **Category**        | **Skills**                       |
-|-------------------- |----------------------------------|
-| **Programming**     | C, C++, Java, Python             |
-| **Web Technologies**| HTML, CSS, JavaScript            |
-| **Tools**           | Android Studio, Jupyter, VS Code |
+| **Category**        | **Skills**                                        |               
+|-------------------- |---------------------------------------------------| 
+| **Programming**     | C, C++, Java, Python, SQL, NoSQL                  |
+| **Web Technologies**| HTML, CSS, JavaScript, React js ,Node js,         |
+| **Tools**           | Android Studio, Jupyter, VS Code, MySQL, MongoDB  |
+| **Specialization**  | Web Development, App Development, Game Development|
+  
+
 
 ---
 
@@ -81,6 +84,13 @@ Hi there! I'm Vaishnavi, a passionate **Computer Science Engineering** student w
 - 🏅 **Certification in Hindi Rashtrabhasha**
 
 ---
+### 📝 Research 
+#### 🎤 **Research Presentation**  
+- Presented research paper: *The Smart Blog Filtering And Publishing Cloud Platform*  
+  - **Event:** 5th International Conference on AEOTIT, SVNIT Surat  
+  - **Date:** November 2024
+    
+---
 
 ### 🌟 Key Strengths
 - 🧠 Problem Solving
@@ -89,7 +99,12 @@ Hi there! I'm Vaishnavi, a passionate **Computer Science Engineering** student w
 - 👂 Active Listening
 
 ---
-
+### 📌 Interests  
+- 🎨 **Web Development**  
+- 📱 **App Development**  
+- 🎮 **Game Development**
+  
+- --
 ### 🌐 Languages
 - **English**: Proficient
 - **Hindi**: Native
