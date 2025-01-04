@@ -1,7 +1,6 @@
-# 🌟 Vaishnavi Pradeep Shitole 🌟
-
+<h1 align="center">🌟 Vaishnavi Shitole 🌟</h1>  
 <p align="center">
-  <strong>💻 Aspiring Developer | 🌐 Web Enthusiast | 🚀 Problem Solver</strong>
+  <strong>💻 Software Developer | 🌐 Web Innovator</strong>  
 </p>
 
 ---
