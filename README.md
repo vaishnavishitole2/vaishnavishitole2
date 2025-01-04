@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Vaishnavi Shitole 🌟</h1>  
 <p align="center">
-  <strong>💻 Software Developer | 🌐 Web Innovator</strong>  
+  <strong>💻 Software Developer | 🌐 Web Innovator | 🖥️ Full-Stack Dreamer </strong>  
 </p>
 
 ---
