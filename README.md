@@ -35,7 +35,7 @@ Hi there! I'm Vaishnavi, a passionate **Computer Science Engineering** student w
 ### 🎓 Education
 - 🎓 **B.Tech in Computer Science and Engineering**  
   G.H. Raisoni University, Amravati  
-  **CGPA**: 8.72  
+  **CGPA**: 8.90 
 
 - 📜 **Diploma in Computer Engineering**  
   MSBTE  
